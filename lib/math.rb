@@ -22,4 +22,4 @@ def square_root(num)
   Math.sqrt(num)
 end
 
-addition(5,4)
+puts addition(5,4)
